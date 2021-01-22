@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Robert Arnesson"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusag/FirebasePlugin.git"
+  },
+  "name": "cz.raynet.raynetcrm.FirebasePlugin",
+  "version": "0.0.14",
+  "description": "Cordova plugin for Google Firebase",
+  "cordova": {
+    "id": "cordova-plugin-firebase",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "firebase",
+    "push",
+    "notifications",
+    "phone auth"
+  ]
+}
